@@ -1,0 +1,1287 @@
+{
+  "name": "MPKUNIV2",
+  "mapping_version": "2.0",
+  "keyboard_channel": 1,
+  "midi_controls_channel": 2,
+  "assignments": [
+    {
+      "type": "Knob",
+      "bank": "A",
+      "index": 1,
+      "channel": 2,
+      "cc": 74,
+      "label": "Cutoff",
+      "mode": "absolute"
+    },
+    {
+      "type": "Knob",
+      "bank": "A",
+      "index": 2,
+      "channel": 2,
+      "cc": 71,
+      "label": "Resonance",
+      "mode": "absolute"
+    },
+    {
+      "type": "Knob",
+      "bank": "A",
+      "index": 3,
+      "channel": 2,
+      "cc": 18,
+      "label": "Wavetable/Pulse width",
+      "mode": "absolute"
+    },
+    {
+      "type": "Knob",
+      "bank": "A",
+      "index": 4,
+      "channel": 2,
+      "cc": 19,
+      "label": "Timbre/Warp",
+      "mode": "absolute"
+    },
+    {
+      "type": "Knob",
+      "bank": "A",
+      "index": 5,
+      "channel": 2,
+      "cc": 20,
+      "label": "Attack",
+      "mode": "absolute"
+    },
+    {
+      "type": "Knob",
+      "bank": "A",
+      "index": 6,
+      "channel": 2,
+      "cc": 21,
+      "label": "Decay",
+      "mode": "absolute"
+    },
+    {
+      "type": "Knob",
+      "bank": "A",
+      "index": 7,
+      "channel": 2,
+      "cc": 22,
+      "label": "Sustain",
+      "mode": "absolute"
+    },
+    {
+      "type": "Knob",
+      "bank": "A",
+      "index": 8,
+      "channel": 2,
+      "cc": 23,
+      "label": "Release",
+      "mode": "absolute"
+    },
+    {
+      "type": "Fader",
+      "bank": "A",
+      "index": 1,
+      "channel": 2,
+      "cc": 24,
+      "label": "Master level",
+      "mode": "absolute"
+    },
+    {
+      "type": "Fader",
+      "bank": "A",
+      "index": 2,
+      "channel": 2,
+      "cc": 25,
+      "label": "Osc 1 level",
+      "mode": "absolute"
+    },
+    {
+      "type": "Fader",
+      "bank": "A",
+      "index": 3,
+      "channel": 2,
+      "cc": 26,
+      "label": "Osc 2 level",
+      "mode": "absolute"
+    },
+    {
+      "type": "Fader",
+      "bank": "A",
+      "index": 4,
+      "channel": 2,
+      "cc": 27,
+      "label": "Noise/second-osc",
+      "mode": "absolute"
+    },
+    {
+      "type": "Fader",
+      "bank": "A",
+      "index": 5,
+      "channel": 2,
+      "cc": 28,
+      "label": "Filter drive",
+      "mode": "absolute"
+    },
+    {
+      "type": "Fader",
+      "bank": "A",
+      "index": 6,
+      "channel": 2,
+      "cc": 29,
+      "label": "Mod depth",
+      "mode": "absolute"
+    },
+    {
+      "type": "Fader",
+      "bank": "A",
+      "index": 7,
+      "channel": 2,
+      "cc": 30,
+      "label": "Effects mix",
+      "mode": "absolute"
+    },
+    {
+      "type": "Fader",
+      "bank": "A",
+      "index": 8,
+      "channel": 2,
+      "cc": 31,
+      "label": "Output/mix",
+      "mode": "absolute"
+    },
+    {
+      "type": "Switch",
+      "bank": "A",
+      "index": 1,
+      "channel": 2,
+      "cc": 70,
+      "label": "Osc 1 enable",
+      "mode": "toggle"
+    },
+    {
+      "type": "Switch",
+      "bank": "A",
+      "index": 2,
+      "channel": 2,
+      "cc": 72,
+      "label": "Osc 2 enable",
+      "mode": "toggle"
+    },
+    {
+      "type": "Switch",
+      "bank": "A",
+      "index": 3,
+      "channel": 2,
+      "cc": 73,
+      "label": "Noise enable",
+      "mode": "toggle"
+    },
+    {
+      "type": "Switch",
+      "bank": "A",
+      "index": 4,
+      "channel": 2,
+      "cc": 75,
+      "label": "Filter enable",
+      "mode": "toggle"
+    },
+    {
+      "type": "Switch",
+      "bank": "A",
+      "index": 5,
+      "channel": 2,
+      "cc": 76,
+      "label": "LFO sync",
+      "mode": "toggle"
+    },
+    {
+      "type": "Switch",
+      "bank": "A",
+      "index": 6,
+      "channel": 2,
+      "cc": 77,
+      "label": "Delay enable",
+      "mode": "toggle"
+    },
+    {
+      "type": "Switch",
+      "bank": "A",
+      "index": 7,
+      "channel": 2,
+      "cc": 118,
+      "label": "Reverb enable",
+      "mode": "toggle"
+    },
+    {
+      "type": "Switch",
+      "bank": "A",
+      "index": 8,
+      "channel": 2,
+      "cc": 119,
+      "label": "Reset/trigger",
+      "mode": "momentary"
+    },
+    {
+      "type": "Knob",
+      "bank": "B",
+      "index": 1,
+      "channel": 2,
+      "cc": 78,
+      "label": "LFO 1 speed",
+      "mode": "absolute"
+    },
+    {
+      "type": "Knob",
+      "bank": "B",
+      "index": 2,
+      "channel": 2,
+      "cc": 79,
+      "label": "LFO 1 depth",
+      "mode": "absolute"
+    },
+    {
+      "type": "Knob",
+      "bank": "B",
+      "index": 3,
+      "channel": 2,
+      "cc": 80,
+      "label": "LFO 2 speed",
+      "mode": "absolute"
+    },
+    {
+      "type": "Knob",
+      "bank": "B",
+      "index": 4,
+      "channel": 2,
+      "cc": 81,
+      "label": "LFO 2 depth",
+      "mode": "absolute"
+    },
+    {
+      "type": "Knob",
+      "bank": "B",
+      "index": 5,
+      "channel": 2,
+      "cc": 82,
+      "label": "Envelope 2 attack",
+      "mode": "absolute"
+    },
+    {
+      "type": "Knob",
+      "bank": "B",
+      "index": 6,
+      "channel": 2,
+      "cc": 83,
+      "label": "Envelope 2 decay",
+      "mode": "absolute"
+    },
+    {
+      "type": "Knob",
+      "bank": "B",
+      "index": 7,
+      "channel": 2,
+      "cc": 84,
+      "label": "Envelope 2 sustain",
+      "mode": "absolute"
+    },
+    {
+      "type": "Knob",
+      "bank": "B",
+      "index": 8,
+      "channel": 2,
+      "cc": 85,
+      "label": "Envelope 2 release",
+      "mode": "absolute"
+    },
+    {
+      "type": "Fader",
+      "bank": "B",
+      "index": 1,
+      "channel": 2,
+      "cc": 86,
+      "label": "Pan",
+      "mode": "absolute"
+    },
+    {
+      "type": "Fader",
+      "bank": "B",
+      "index": 2,
+      "channel": 2,
+      "cc": 87,
+      "label": "Osc detune",
+      "mode": "absolute"
+    },
+    {
+      "type": "Fader",
+      "bank": "B",
+      "index": 3,
+      "channel": 2,
+      "cc": 88,
+      "label": "Filter blend",
+      "mode": "absolute"
+    },
+    {
+      "type": "Fader",
+      "bank": "B",
+      "index": 4,
+      "channel": 2,
+      "cc": 89,
+      "label": "Filter 2 cutoff",
+      "mode": "absolute"
+    },
+    {
+      "type": "Fader",
+      "bank": "B",
+      "index": 5,
+      "channel": 2,
+      "cc": 90,
+      "label": "Delay time",
+      "mode": "absolute"
+    },
+    {
+      "type": "Fader",
+      "bank": "B",
+      "index": 6,
+      "channel": 2,
+      "cc": 91,
+      "label": "Delay feedback",
+      "mode": "absolute"
+    },
+    {
+      "type": "Fader",
+      "bank": "B",
+      "index": 7,
+      "channel": 2,
+      "cc": 92,
+      "label": "Reverb size",
+      "mode": "absolute"
+    },
+    {
+      "type": "Fader",
+      "bank": "B",
+      "index": 8,
+      "channel": 2,
+      "cc": 93,
+      "label": "Reverb wet",
+      "mode": "absolute"
+    },
+    {
+      "type": "Switch",
+      "bank": "B",
+      "index": 1,
+      "channel": 2,
+      "cc": 102,
+      "label": "LFO 1 sync",
+      "mode": "toggle"
+    },
+    {
+      "type": "Switch",
+      "bank": "B",
+      "index": 2,
+      "channel": 2,
+      "cc": 103,
+      "label": "LFO 2 sync",
+      "mode": "toggle"
+    },
+    {
+      "type": "Switch",
+      "bank": "B",
+      "index": 3,
+      "channel": 2,
+      "cc": 104,
+      "label": "Arp toggler",
+      "mode": "toggle"
+    },
+    {
+      "type": "Switch",
+      "bank": "B",
+      "index": 4,
+      "channel": 2,
+      "cc": 105,
+      "label": "Delay on",
+      "mode": "toggle"
+    },
+    {
+      "type": "Switch",
+      "bank": "B",
+      "index": 5,
+      "channel": 2,
+      "cc": 106,
+      "label": "Reverb on",
+      "mode": "toggle"
+    },
+    {
+      "type": "Switch",
+      "bank": "B",
+      "index": 6,
+      "channel": 2,
+      "cc": 107,
+      "label": "Distortion on",
+      "mode": "toggle"
+    },
+    {
+      "type": "Switch",
+      "bank": "B",
+      "index": 7,
+      "channel": 2,
+      "cc": 108,
+      "label": "Chorus on",
+      "mode": "toggle"
+    },
+    {
+      "type": "Switch",
+      "bank": "B",
+      "index": 8,
+      "channel": 2,
+      "cc": 109,
+      "label": "Trigger",
+      "mode": "momentary"
+    },
+    {
+      "type": "Knob",
+      "bank": "C",
+      "index": 1,
+      "channel": 2,
+      "cc": 110,
+      "label": "Macro 1",
+      "mode": "absolute"
+    },
+    {
+      "type": "Knob",
+      "bank": "C",
+      "index": 2,
+      "channel": 2,
+      "cc": 111,
+      "label": "Macro 2",
+      "mode": "absolute"
+    },
+    {
+      "type": "Knob",
+      "bank": "C",
+      "index": 3,
+      "channel": 2,
+      "cc": 112,
+      "label": "Macro 3",
+      "mode": "absolute"
+    },
+    {
+      "type": "Knob",
+      "bank": "C",
+      "index": 4,
+      "channel": 2,
+      "cc": 113,
+      "label": "Macro 4",
+      "mode": "absolute"
+    },
+    {
+      "type": "Knob",
+      "bank": "C",
+      "index": 5,
+      "channel": 2,
+      "cc": 114,
+      "label": "Macro 5",
+      "mode": "absolute"
+    },
+    {
+      "type": "Knob",
+      "bank": "C",
+      "index": 6,
+      "channel": 2,
+      "cc": 115,
+      "label": "Macro 6",
+      "mode": "absolute"
+    },
+    {
+      "type": "Knob",
+      "bank": "C",
+      "index": 7,
+      "channel": 2,
+      "cc": 116,
+      "label": "Macro 7",
+      "mode": "absolute"
+    },
+    {
+      "type": "Knob",
+      "bank": "C",
+      "index": 8,
+      "channel": 2,
+      "cc": 117,
+      "label": "Macro 8",
+      "mode": "absolute"
+    },
+    {
+      "type": "Fader",
+      "bank": "C",
+      "index": 1,
+      "channel": 2,
+      "cc": 40,
+      "label": "Macro 9",
+      "mode": "absolute"
+    },
+    {
+      "type": "Fader",
+      "bank": "C",
+      "index": 2,
+      "channel": 2,
+      "cc": 41,
+      "label": "Macro 10",
+      "mode": "absolute"
+    },
+    {
+      "type": "Fader",
+      "bank": "C",
+      "index": 3,
+      "channel": 2,
+      "cc": 42,
+      "label": "Macro 11",
+      "mode": "absolute"
+    },
+    {
+      "type": "Fader",
+      "bank": "C",
+      "index": 4,
+      "channel": 2,
+      "cc": 43,
+      "label": "Macro 12",
+      "mode": "absolute"
+    },
+    {
+      "type": "Fader",
+      "bank": "C",
+      "index": 5,
+      "channel": 2,
+      "cc": 44,
+      "label": "Macro 13",
+      "mode": "absolute"
+    },
+    {
+      "type": "Fader",
+      "bank": "C",
+      "index": 6,
+      "channel": 2,
+      "cc": 45,
+      "label": "Macro 14",
+      "mode": "absolute"
+    },
+    {
+      "type": "Fader",
+      "bank": "C",
+      "index": 7,
+      "channel": 2,
+      "cc": 46,
+      "label": "Macro 15",
+      "mode": "absolute"
+    },
+    {
+      "type": "Fader",
+      "bank": "C",
+      "index": 8,
+      "channel": 2,
+      "cc": 47,
+      "label": "Macro 16",
+      "mode": "absolute"
+    },
+    {
+      "type": "Switch",
+      "bank": "C",
+      "index": 1,
+      "channel": 2,
+      "cc": 48,
+      "label": "Gate 1",
+      "mode": "toggle"
+    },
+    {
+      "type": "Switch",
+      "bank": "C",
+      "index": 2,
+      "channel": 2,
+      "cc": 49,
+      "label": "Gate 2",
+      "mode": "toggle"
+    },
+    {
+      "type": "Switch",
+      "bank": "C",
+      "index": 3,
+      "channel": 2,
+      "cc": 50,
+      "label": "Gate 3",
+      "mode": "toggle"
+    },
+    {
+      "type": "Switch",
+      "bank": "C",
+      "index": 4,
+      "channel": 2,
+      "cc": 51,
+      "label": "Gate 4",
+      "mode": "toggle"
+    },
+    {
+      "type": "Switch",
+      "bank": "C",
+      "index": 5,
+      "channel": 2,
+      "cc": 52,
+      "label": "Gate 5",
+      "mode": "toggle"
+    },
+    {
+      "type": "Switch",
+      "bank": "C",
+      "index": 6,
+      "channel": 2,
+      "cc": 53,
+      "label": "Gate 6",
+      "mode": "toggle"
+    },
+    {
+      "type": "Switch",
+      "bank": "C",
+      "index": 7,
+      "channel": 2,
+      "cc": 54,
+      "label": "Gate 7",
+      "mode": "toggle"
+    },
+    {
+      "type": "Switch",
+      "bank": "C",
+      "index": 8,
+      "channel": 2,
+      "cc": 55,
+      "label": "Gate 8",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "A",
+      "index": 1,
+      "channel": 1,
+      "note": 60,
+      "label": "Chromatic notes",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "A",
+      "index": 2,
+      "channel": 1,
+      "note": 61,
+      "label": "Chromatic notes",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "A",
+      "index": 3,
+      "channel": 1,
+      "note": 62,
+      "label": "Chromatic notes",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "A",
+      "index": 4,
+      "channel": 1,
+      "note": 63,
+      "label": "Chromatic notes",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "A",
+      "index": 5,
+      "channel": 1,
+      "note": 64,
+      "label": "Chromatic notes",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "A",
+      "index": 6,
+      "channel": 1,
+      "note": 65,
+      "label": "Chromatic notes",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "A",
+      "index": 7,
+      "channel": 1,
+      "note": 66,
+      "label": "Chromatic notes",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "A",
+      "index": 8,
+      "channel": 1,
+      "note": 67,
+      "label": "Chromatic notes",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "A",
+      "index": 9,
+      "channel": 1,
+      "note": 68,
+      "label": "Chromatic notes",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "A",
+      "index": 10,
+      "channel": 1,
+      "note": 69,
+      "label": "Chromatic notes",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "A",
+      "index": 11,
+      "channel": 1,
+      "note": 70,
+      "label": "Chromatic notes",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "A",
+      "index": 12,
+      "channel": 1,
+      "note": 71,
+      "label": "Chromatic notes",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "A",
+      "index": 13,
+      "channel": 1,
+      "note": 72,
+      "label": "Chromatic notes",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "A",
+      "index": 14,
+      "channel": 1,
+      "note": 73,
+      "label": "Chromatic notes",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "A",
+      "index": 15,
+      "channel": 1,
+      "note": 74,
+      "label": "Chromatic notes",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "A",
+      "index": 16,
+      "channel": 1,
+      "note": 75,
+      "label": "Chromatic notes",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "B",
+      "index": 1,
+      "channel": 10,
+      "note": 36,
+      "label": "GM percussion range",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "B",
+      "index": 2,
+      "channel": 10,
+      "note": 37,
+      "label": "GM percussion range",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "B",
+      "index": 3,
+      "channel": 10,
+      "note": 38,
+      "label": "GM percussion range",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "B",
+      "index": 4,
+      "channel": 10,
+      "note": 39,
+      "label": "GM percussion range",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "B",
+      "index": 5,
+      "channel": 10,
+      "note": 40,
+      "label": "GM percussion range",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "B",
+      "index": 6,
+      "channel": 10,
+      "note": 41,
+      "label": "GM percussion range",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "B",
+      "index": 7,
+      "channel": 10,
+      "note": 42,
+      "label": "GM percussion range",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "B",
+      "index": 8,
+      "channel": 10,
+      "note": 43,
+      "label": "GM percussion range",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "B",
+      "index": 9,
+      "channel": 10,
+      "note": 44,
+      "label": "GM percussion range",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "B",
+      "index": 10,
+      "channel": 10,
+      "note": 45,
+      "label": "GM percussion range",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "B",
+      "index": 11,
+      "channel": 10,
+      "note": 46,
+      "label": "GM percussion range",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "B",
+      "index": 12,
+      "channel": 10,
+      "note": 47,
+      "label": "GM percussion range",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "B",
+      "index": 13,
+      "channel": 10,
+      "note": 48,
+      "label": "GM percussion range",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "B",
+      "index": 14,
+      "channel": 10,
+      "note": 49,
+      "label": "GM percussion range",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "B",
+      "index": 15,
+      "channel": 10,
+      "note": 50,
+      "label": "GM percussion range",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "B",
+      "index": 16,
+      "channel": 10,
+      "note": 51,
+      "label": "GM percussion range",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "C",
+      "index": 1,
+      "channel": 2,
+      "note": 36,
+      "label": "Low triggers",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "C",
+      "index": 2,
+      "channel": 2,
+      "note": 37,
+      "label": "Low triggers",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "C",
+      "index": 3,
+      "channel": 2,
+      "note": 38,
+      "label": "Low triggers",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "C",
+      "index": 4,
+      "channel": 2,
+      "note": 39,
+      "label": "Low triggers",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "C",
+      "index": 5,
+      "channel": 2,
+      "note": 40,
+      "label": "Low triggers",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "C",
+      "index": 6,
+      "channel": 2,
+      "note": 41,
+      "label": "Low triggers",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "C",
+      "index": 7,      "channel": 2,
+      "note": 42,
+      "label": "Low triggers",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "C",
+      "index": 8,
+      "channel": 2,
+      "note": 43,
+      "label": "Low triggers",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "C",
+      "index": 9,
+      "channel": 2,
+      "note": 44,
+      "label": "Low triggers",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "C",
+      "index": 10,
+      "channel": 2,
+      "note": 45,
+      "label": "Low triggers",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "C",
+      "index": 11,
+      "channel": 2,
+      "note": 46,
+      "label": "Low triggers",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "C",
+      "index": 12,
+      "channel": 2,
+      "note": 47,
+      "label": "Low triggers",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "C",
+      "index": 13,
+      "channel": 2,
+      "note": 48,
+      "label": "Low triggers",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "C",
+      "index": 14,
+      "channel": 2,
+      "note": 49,
+      "label": "Low triggers",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "C",
+      "index": 15,
+      "channel": 2,
+      "note": 50,
+      "label": "Low triggers",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "C",
+      "index": 16,
+      "channel": 2,
+      "note": 51,
+      "label": "Low triggers",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "D",
+      "index": 1,
+      "channel": 2,
+      "note": 60,
+      "label": "High triggers",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "D",
+      "index": 2,
+      "channel": 2,
+      "note": 61,
+      "label": "High triggers",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "D",
+      "index": 3,
+      "channel": 2,
+      "note": 62,
+      "label": "High triggers",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "D",
+      "index": 4,
+      "channel": 2,
+      "note": 63,
+      "label": "High triggers",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "D",
+      "index": 5,
+      "channel": 2,
+      "note": 64,
+      "label": "High triggers",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "D",
+      "index": 6,
+      "channel": 2,
+      "note": 65,
+      "label": "High triggers",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "D",
+      "index": 7,
+      "channel": 2,
+      "note": 66,
+      "label": "High triggers",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "D",
+      "index": 8,
+      "channel": 2,
+      "note": 67,
+      "label": "High triggers",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "D",
+      "index": 9,
+      "channel": 2,
+      "note": 68,
+      "label": "High triggers",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "D",
+      "index": 10,
+      "channel": 2,
+      "note": 69,
+      "label": "High triggers",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "D",
+      "index": 11,
+      "channel": 2,
+      "note": 70,
+      "label": "High triggers",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "D",
+      "index": 12,
+      "channel": 2,
+      "note": 71,
+      "label": "High triggers",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "D",
+      "index": 13,
+      "channel": 2,
+      "note": 72,
+      "label": "High triggers",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "D",
+      "index": 14,
+      "channel": 2,
+      "note": 73,
+      "label": "High triggers",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "D",
+      "index": 15,
+      "channel": 2,
+      "note": 74,
+      "label": "High triggers",
+      "mode": "momentary"
+    },
+    {
+      "type": "Pad",
+      "bank": "D",
+      "index": 16,
+      "channel": 2,
+      "note": 75,
+      "label": "High triggers",
+      "mode": "momentary"
+    },
+    {
+      "type": "Navigation",
+      "bank": "-",
+      "index": 1,
+      "name": "Enter",
+      "channel": 2,
+      "cc": 56,
+      "label": "Navigation / utility",
+      "mode": "momentary"
+    },
+    {
+      "type": "Navigation",
+      "bank": "-",
+      "index": 2,
+      "name": "Left",
+      "channel": 2,
+      "cc": 57,
+      "label": "Navigation / utility",
+      "mode": "momentary"
+    },
+    {
+      "type": "Navigation",
+      "bank": "-",
+      "index": 3,
+      "name": "Right",
+      "channel": 2,
+      "cc": 58,
+      "label": "Navigation / utility",
+      "mode": "momentary"
+    },
+    {
+      "type": "Navigation",
+      "bank": "-",
+      "index": 4,
+      "name": "Up",
+      "channel": 2,
+      "cc": 59,
+      "label": "Navigation / utility",
+      "mode": "momentary"
+    },
+    {
+      "type": "Navigation",
+      "bank": "-",
+      "index": 5,
+      "name": "Down",
+      "channel": 2,
+      "cc": 60,
+      "label": "Navigation / utility",
+      "mode": "momentary"
+    }
+  ],
+  "unchanged": [
+    "keyboard pitch/mod/pedal",
+    "transport",
+    "arpeggiator",
+    "global settings"
+  ]
+}

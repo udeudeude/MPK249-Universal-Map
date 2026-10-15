@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+*.syx
+*.MPK249-backup-*
+*.MPK249-tmp
+.venv/

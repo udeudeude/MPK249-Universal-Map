@@ -1,0 +1,378 @@
+[
+  {
+    "source": 74,
+    "destinations": [
+      {
+        "destination": "filter_1_cutoff"
+      }
+    ]
+  },
+  {
+    "source": 71,
+    "destinations": [
+      {
+        "destination": "filter_1_resonance"
+      }
+    ]
+  },
+  {
+    "source": 18,
+    "destinations": [
+      {
+        "destination": "osc_1_wave_frame"
+      }
+    ]
+  },
+  {
+    "source": 19,
+    "destinations": [
+      {
+        "destination": "osc_1_spectral_morph_amount"
+      }
+    ]
+  },
+  {
+    "source": 20,
+    "destinations": [
+      {
+        "destination": "env_1_attack"
+      }
+    ]
+  },
+  {
+    "source": 21,
+    "destinations": [
+      {
+        "destination": "env_1_decay"
+      }
+    ]
+  },
+  {
+    "source": 22,
+    "destinations": [
+      {
+        "destination": "env_1_sustain"
+      }
+    ]
+  },
+  {
+    "source": 23,
+    "destinations": [
+      {
+        "destination": "env_1_release"
+      }
+    ]
+  },
+  {
+    "source": 24,
+    "destinations": [
+      {
+        "destination": "voice_amplitude"
+      }
+    ]
+  },
+  {
+    "source": 25,
+    "destinations": [
+      {
+        "destination": "osc_1_level"
+      }
+    ]
+  },
+  {
+    "source": 26,
+    "destinations": [
+      {
+        "destination": "osc_2_level"
+      }
+    ]
+  },
+  {
+    "source": 27,
+    "destinations": [
+      {
+        "destination": "filter_1_mix"
+      }
+    ]
+  },
+  {
+    "source": 28,
+    "destinations": [
+      {
+        "destination": "filter_1_drive"
+      }
+    ]
+  },
+  {
+    "source": 29,
+    "destinations": [
+      {
+        "destination": "osc_1_unison_detune"
+      }
+    ]
+  },
+  {
+    "source": 30,
+    "destinations": [
+      {
+        "destination": "delay_dry_wet"
+      }
+    ]
+  },
+  {
+    "source": 31,
+    "destinations": [
+      {
+        "destination": "reverb_dry_wet"
+      }
+    ]
+  },
+  {
+    "source": 70,
+    "destinations": [
+      {
+        "destination": "osc_1_on"
+      }
+    ]
+  },
+  {
+    "source": 72,
+    "destinations": [
+      {
+        "destination": "osc_2_on"
+      }
+    ]
+  },
+  {
+    "source": 73,
+    "destinations": [
+      {
+        "destination": "filter_1_osc1_input"
+      }
+    ]
+  },
+  {
+    "source": 75,
+    "destinations": [
+      {
+        "destination": "filter_1_on"
+      }
+    ]
+  },
+  {
+    "source": 76,
+    "destinations": [
+      {
+        "destination": "lfo_1_sync"
+      }
+    ]
+  },
+  {
+    "source": 77,
+    "destinations": [
+      {
+        "destination": "delay_on"
+      }
+    ]
+  },
+  {
+    "source": 118,
+    "destinations": [
+      {
+        "destination": "reverb_on"
+      }
+    ]
+  },
+  {
+    "source": 119,
+    "destinations": [
+      {
+        "destination": "portamento_force"
+      }
+    ]
+  },
+  {
+    "source": 78,
+    "destinations": [
+      {
+        "destination": "lfo_1_frequency"
+      }
+    ]
+  },
+  {
+    "source": 79,
+    "destinations": [
+      {
+        "destination": "modulation_1_amount"
+      }
+    ]
+  },
+  {
+    "source": 80,
+    "destinations": [
+      {
+        "destination": "lfo_2_frequency"
+      }
+    ]
+  },
+  {
+    "source": 81,
+    "destinations": [
+      {
+        "destination": "modulation_2_amount"
+      }
+    ]
+  },
+  {
+    "source": 82,
+    "destinations": [
+      {
+        "destination": "env_2_attack"
+      }
+    ]
+  },
+  {
+    "source": 83,
+    "destinations": [
+      {
+        "destination": "env_2_decay"
+      }
+    ]
+  },
+  {
+    "source": 84,
+    "destinations": [
+      {
+        "destination": "env_2_sustain"
+      }
+    ]
+  },
+  {
+    "source": 85,
+    "destinations": [
+      {
+        "destination": "env_2_release"
+      }
+    ]
+  },
+  {
+    "source": 86,
+    "destinations": [
+      {
+        "destination": "osc_1_pan"
+      }
+    ]
+  },
+  {
+    "source": 87,
+    "destinations": [
+      {
+        "destination": "osc_1_tune"
+      }
+    ]
+  },
+  {
+    "source": 88,
+    "destinations": [
+      {
+        "destination": "filter_1_blend"
+      }
+    ]
+  },
+  {
+    "source": 89,
+    "destinations": [
+      {
+        "destination": "filter_2_cutoff"
+      }
+    ]
+  },
+  {
+    "source": 90,
+    "destinations": [
+      {
+        "destination": "delay_frequency"
+      }
+    ]
+  },
+  {
+    "source": 91,
+    "destinations": [
+      {
+        "destination": "delay_feedback"
+      }
+    ]
+  },
+  {
+    "source": 92,
+    "destinations": [
+      {
+        "destination": "reverb_decay_time"
+      }
+    ]
+  },
+  {
+    "source": 103,
+    "destinations": [
+      {
+        "destination": "lfo_2_sync"
+      }
+    ]
+  },
+  {
+    "source": 104,
+    "destinations": [
+      {
+        "destination": "legato"
+      }
+    ]
+  },
+  {
+    "source": 107,
+    "destinations": [
+      {
+        "destination": "distortion_on"
+      }
+    ]
+  },
+  {
+    "source": 108,
+    "destinations": [
+      {
+        "destination": "chorus_on"
+      }
+    ]
+  },
+  {
+    "source": 110,
+    "destinations": [
+      {
+        "destination": "macro_control_1"
+      }
+    ]
+  },
+  {
+    "source": 111,
+    "destinations": [
+      {
+        "destination": "macro_control_2"
+      }
+    ]
+  },
+  {
+    "source": 112,
+    "destinations": [
+      {
+        "destination": "macro_control_3"
+      }
+    ]
+  },
+  {
+    "source": 113,
+    "destinations": [
+      {
+        "destination": "macro_control_4"
+      }
+    ]
+  }
+]

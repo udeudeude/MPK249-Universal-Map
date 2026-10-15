@@ -1,0 +1,143 @@
+<PARSED TEXT FOR SHEET: 1 / 1 TABS
+TAB NAME: Hardware__MPKUNIV2.mapping.csv>index,type,bank,index,name,channel,cc,note,label,mode
+0,Knob,A,1,,2,74.0,,Cutoff,absolute
+1,Knob,A,2,,2,71.0,,Resonance,absolute
+2,Knob,A,3,,2,18.0,,Wavetable/Pulse width,absolute
+3,Knob,A,4,,2,19.0,,Timbre/Warp,absolute
+4,Knob,A,5,,2,20.0,,Attack,absolute
+5,Knob,A,6,,2,21.0,,Decay,absolute
+6,Knob,A,7,,2,22.0,,Sustain,absolute
+7,Knob,A,8,,2,23.0,,Release,absolute
+8,Fader,A,1,,2,24.0,,Master level,absolute
+9,Fader,A,2,,2,25.0,,Osc 1 level,absolute
+10,Fader,A,3,,2,26.0,,Osc 2 level,absolute
+11,Fader,A,4,,2,27.0,,Noise/second-osc,absolute
+12,Fader,A,5,,2,28.0,,Filter drive,absolute
+13,Fader,A,6,,2,29.0,,Mod depth,absolute
+14,Fader,A,7,,2,30.0,,Effects mix,absolute
+15,Fader,A,8,,2,31.0,,Output/mix,absolute
+16,Switch,A,1,,2,70.0,,Osc 1 enable,toggle
+17,Switch,A,2,,2,72.0,,Osc 2 enable,toggle
+18,Switch,A,3,,2,73.0,,Noise enable,toggle
+19,Switch,A,4,,2,75.0,,Filter enable,toggle
+20,Switch,A,5,,2,76.0,,LFO sync,toggle
+21,Switch,A,6,,2,77.0,,Delay enable,toggle
+22,Switch,A,7,,2,118.0,,Reverb enable,toggle
+23,Switch,A,8,,2,119.0,,Reset/trigger,momentary
+24,Knob,B,1,,2,78.0,,LFO 1 speed,absolute
+25,Knob,B,2,,2,79.0,,LFO 1 depth,absolute
+26,Knob,B,3,,2,80.0,,LFO 2 speed,absolute
+27,Knob,B,4,,2,81.0,,LFO 2 depth,absolute
+28,Knob,B,5,,2,82.0,,Envelope 2 attack,absolute
+29,Knob,B,6,,2,83.0,,Envelope 2 decay,absolute
+30,Knob,B,7,,2,84.0,,Envelope 2 sustain,absolute
+31,Knob,B,8,,2,85.0,,Envelope 2 release,absolute
+32,Fader,B,1,,2,86.0,,Pan,absolute
+33,Fader,B,2,,2,87.0,,Osc detune,absolute
+34,Fader,B,3,,2,88.0,,Filter blend,absolute
+35,Fader,B,4,,2,89.0,,Filter 2 cutoff,absolute
+36,Fader,B,5,,2,90.0,,Delay time,absolute
+37,Fader,B,6,,2,91.0,,Delay feedback,absolute
+38,Fader,B,7,,2,92.0,,Reverb size,absolute
+39,Fader,B,8,,2,93.0,,Reverb wet,absolute
+40,Switch,B,1,,2,102.0,,LFO 1 sync,toggle
+41,Switch,B,2,,2,103.0,,LFO 2 sync,toggle
+42,Switch,B,3,,2,104.0,,Arp toggler,toggle
+43,Switch,B,4,,2,105.0,,Delay on,toggle
+44,Switch,B,5,,2,106.0,,Reverb on,toggle
+45,Switch,B,6,,2,107.0,,Distortion on,toggle
+46,Switch,B,7,,2,108.0,,Chorus on,toggle
+47,Switch,B,8,,2,109.0,,Trigger,momentary
+48,Knob,C,1,,2,110.0,,Macro 1,absolute
+49,Knob,C,2,,2,111.0,,Macro 2,absolute
+50,Knob,C,3,,2,112.0,,Macro 3,absolute
+51,Knob,C,4,,2,113.0,,Macro 4,absolute
+52,Knob,C,5,,2,114.0,,Macro 5,absolute
+53,Knob,C,6,,2,115.0,,Macro 6,absolute
+54,Knob,C,7,,2,116.0,,Macro 7,absolute
+55,Knob,C,8,,2,117.0,,Macro 8,absolute
+56,Fader,C,1,,2,40.0,,Macro 9,absolute
+57,Fader,C,2,,2,41.0,,Macro 10,absolute
+58,Fader,C,3,,2,42.0,,Macro 11,absolute
+59,Fader,C,4,,2,43.0,,Macro 12,absolute
+60,Fader,C,5,,2,44.0,,Macro 13,absolute
+61,Fader,C,6,,2,45.0,,Macro 14,absolute
+62,Fader,C,7,,2,46.0,,Macro 15,absolute
+63,Fader,C,8,,2,47.0,,Macro 16,absolute
+64,Switch,C,1,,2,48.0,,Gate 1,toggle
+65,Switch,C,2,,2,49.0,,Gate 2,toggle
+66,Switch,C,3,,2,50.0,,Gate 3,toggle
+67,Switch,C,4,,2,51.0,,Gate 4,toggle
+68,Switch,C,5,,2,52.0,,Gate 5,toggle
+69,Switch,C,6,,2,53.0,,Gate 6,toggle
+70,Switch,C,7,,2,54.0,,Gate 7,toggle
+71,Switch,C,8,,2,55.0,,Gate 8,momentary
+72,Pad,A,1,,1,,60.0,Chromatic notes,momentary
+73,Pad,A,2,,1,,61.0,Chromatic notes,momentary
+74,Pad,A,3,,1,,62.0,Chromatic notes,momentary
+75,Pad,A,4,,1,,63.0,Chromatic notes,momentary
+76,Pad,A,5,,1,,64.0,Chromatic notes,momentary
+77,Pad,A,6,,1,,65.0,Chromatic notes,momentary
+78,Pad,A,7,,1,,66.0,Chromatic notes,momentary
+79,Pad,A,8,,1,,67.0,Chromatic notes,momentary
+80,Pad,A,9,,1,,68.0,Chromatic notes,momentary
+81,Pad,A,10,,1,,69.0,Chromatic notes,momentary
+82,Pad,A,11,,1,,70.0,Chromatic notes,momentary
+83,Pad,A,12,,1,,71.0,Chromatic notes,momentary
+84,Pad,A,13,,1,,72.0,Chromatic notes,momentary
+85,Pad,A,14,,1,,73.0,Chromatic notes,momentary
+86,Pad,A,15,,1,,74.0,Chromatic notes,momentary
+87,Pad,A,16,,1,,75.0,Chromatic notes,momentary
+88,Pad,B,1,,10,,36.0,GM percussion range,momentary
+89,Pad,B,2,,10,,37.0,GM percussion range,momentary
+90,Pad,B,3,,10,,38.0,GM percussion range,momentary
+91,Pad,B,4,,10,,39.0,GM percussion range,momentary
+92,Pad,B,5,,10,,40.0,GM percussion range,momentary
+93,Pad,B,6,,10,,41.0,GM percussion range,momentary
+94,Pad,B,7,,10,,42.0,GM percussion range,momentary
+95,Pad,B,8,,10,,43.0,GM percussion range,momentary
+96,Pad,B,9,,10,,44.0,GM percussion range,momentary
+97,Pad,B,10,,10,,45.0,GM percussion range,momentary
+98,Pad,B,11,,10,,46.0,GM percussion range,momentary
+99,Pad,B,12,,10,,47.0,GM percussion range,momentary
+100,Pad,B,13,,10,,48.0,GM percussion range,momentary
+101,Pad,B,14,,10,,49.0,GM percussion range,momentary
+102,Pad,B,15,,10,,50.0,GM percussion range,momentary
+103,Pad,B,16,,10,,51.0,GM percussion range,momentary
+104,Pad,C,1,,2,,36.0,Low triggers,momentary
+105,Pad,C,2,,2,,37.0,Low triggers,momentary
+106,Pad,C,3,,2,,38.0,Low triggers,momentary
+107,Pad,C,4,,2,,39.0,Low triggers,momentary
+108,Pad,C,5,,2,,40.0,Low triggers,momentary
+109,Pad,C,6,,2,,41.0,Low triggers,momentary
+110,Pad,C,7,,2,,42.0,Low triggers,momentary
+111,Pad,C,8,,2,,43.0,Low triggers,momentary
+112,Pad,C,9,,2,,44.0,Low triggers,momentary
+113,Pad,C,10,,2,,45.0,Low triggers,momentary
+114,Pad,C,11,,2,,46.0,Low triggers,momentary
+115,Pad,C,12,,2,,47.0,Low triggers,momentary
+116,Pad,C,13,,2,,48.0,Low triggers,momentary
+117,Pad,C,14,,2,,49.0,Low triggers,momentary
+118,Pad,C,15,,2,,50.0,Low triggers,momentary
+119,Pad,C,16,,2,,51.0,Low triggers,momentary
+120,Pad,D,1,,2,,60.0,High triggers,momentary
+121,Pad,D,2,,2,,61.0,High triggers,momentary
+122,Pad,D,3,,2,,62.0,High triggers,momentary
+123,Pad,D,4,,2,,63.0,High triggers,momentary
+124,Pad,D,5,,2,,64.0,High triggers,momentary
+125,Pad,D,6,,2,,65.0,High triggers,momentary
+126,Pad,D,7,,2,,66.0,High triggers,momentary
+127,Pad,D,8,,2,,67.0,High triggers,momentary
+128,Pad,D,9,,2,,68.0,High triggers,momentary
+129,Pad,D,10,,2,,69.0,High triggers,momentary
+130,Pad,D,11,,2,,70.0,High triggers,momentary
+131,Pad,D,12,,2,,71.0,High triggers,momentary
+132,Pad,D,13,,2,,72.0,High triggers,momentary
+133,Pad,D,14,,2,,73.0,High triggers,momentary
+134,Pad,D,15,,2,,74.0,High triggers,momentary
+135,Pad,D,16,,2,,75.0,High triggers,momentary
+136,Navigation,-,1,Enter,2,56.0,,Navigation / utility,momentary
+137,Navigation,-,2,Left,2,57.0,,Navigation / utility,momentary
+138,Navigation,-,3,Right,2,58.0,,Navigation / utility,momentary
+139,Navigation,-,4,Up,2,59.0,,Navigation / utility,momentary
+140,Navigation,-,5,Down,2,60.0,,Navigation / utility,momentary
